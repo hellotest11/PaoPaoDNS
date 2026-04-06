@@ -1,10 +1,5 @@
 name: Schedule Latest Build Docker
 
-env:
-  # FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-  # FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true
-  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
-  
 on:
   # schedule:
   #   - cron: '57 15 * * 4'
